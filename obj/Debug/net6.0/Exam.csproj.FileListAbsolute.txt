@@ -1,0 +1,15 @@
+C:\Users\MTA 216\Desktop\2.2\bin\Debug\net6.0\Exam.exe
+C:\Users\MTA 216\Desktop\2.2\bin\Debug\net6.0\Exam.deps.json
+C:\Users\MTA 216\Desktop\2.2\bin\Debug\net6.0\Exam.runtimeconfig.json
+C:\Users\MTA 216\Desktop\2.2\bin\Debug\net6.0\Exam.dll
+C:\Users\MTA 216\Desktop\2.2\bin\Debug\net6.0\Exam.pdb
+C:\Users\MTA 216\Desktop\2.2\obj\Debug\net6.0\Exam.csproj.AssemblyReference.cache
+C:\Users\MTA 216\Desktop\2.2\obj\Debug\net6.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MTA 216\Desktop\2.2\obj\Debug\net6.0\Exam.AssemblyInfoInputs.cache
+C:\Users\MTA 216\Desktop\2.2\obj\Debug\net6.0\Exam.AssemblyInfo.cs
+C:\Users\MTA 216\Desktop\2.2\obj\Debug\net6.0\Exam.csproj.CoreCompileInputs.cache
+C:\Users\MTA 216\Desktop\2.2\obj\Debug\net6.0\Exam.dll
+C:\Users\MTA 216\Desktop\2.2\obj\Debug\net6.0\refint\Exam.dll
+C:\Users\MTA 216\Desktop\2.2\obj\Debug\net6.0\Exam.pdb
+C:\Users\MTA 216\Desktop\2.2\obj\Debug\net6.0\Exam.genruntimeconfig.cache
+C:\Users\MTA 216\Desktop\2.2\obj\Debug\net6.0\ref\Exam.dll
